@@ -2,7 +2,7 @@
 
 > Recognize text from images.
 
-Wafer-thin wrapper for performaing OCR on image files using Vision.Framework `VNRecognizeTextRequest` API requests. Detected text is written to `stdout` so you can `grep` your JPEGs.
+Wafer-thin wrapper for performing OCR on image files using Vision.Framework `VNRecognizeTextRequest` API requests. Detected text is written to `stdout` so you can `grep` your JPEGs.
 
 ## Build
 
